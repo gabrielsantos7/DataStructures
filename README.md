@@ -30,9 +30,15 @@ Este repositório inclui as seguintes estruturas de dados:
 
 2. **Fila (Queue):**
 
-   * Estrutura FIFO (First In, First Out) usada para modelar filas de espera.
+   * Estrutura FIFO (First In, First Out) usada para modelar filas de espera, onde o primeiro a entrar é o primeiro a sair.
    * Projeto: `Queue`
    * Exemplo: Solução do problema de Josephus.
+
+3. **Pilha (Stack):**
+
+   * Estrutura LIFO (Last In, First Out), modelando situações onde o último a entrar é o primeiro a sair.
+   * Projeto: `Stack`
+   * Exemplo: Validação de parênteses em expressões matemáticas
 
 ## Estrutura do Repositório
 
