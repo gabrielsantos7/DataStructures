@@ -28,6 +28,12 @@ Este repositório inclui as seguintes estruturas de dados:
    * Projeto: `LinkedList`
    * Exemplo: Gerenciamento de uma agenda telefônica.
 
+2. **Fila (Queue):**
+
+   * Estrutura FIFO (First In, First Out) usada para modelar filas de espera.
+   * Projeto: `Queue`
+   * Exemplo: Solução do problema de Josephus.
+
 ## Estrutura do Repositório
 
 Cada pasta dentro do repositório representa um projeto separado e contém:
