@@ -1,5 +1,3 @@
-## Getting Started
-
 # ☕ Hash Table Implementation
 
 Este projeto apresenta a implementação de uma **Tabela Hash (Hash Table)** baseada em vetores e listas ligadas para tratamento de colisões. O projeto inclui também uma aplicação de exemplo que verifica se duas palavras são  **anagramas**.
