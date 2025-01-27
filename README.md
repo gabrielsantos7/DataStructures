@@ -18,7 +18,7 @@ Estruturas de dados são ferramentas fundamentais na computação, permitindo a 
 2. **"Algorithms"** - Robert Sedgewick e Kevin Wayne.
 3. **"Data Structures and Algorithm Analysis in Java"** - Mark Allen Weiss.
 
-## Estruturas de Dados Abordadas
+## 🧩 Estruturas de Dados Abordadas
 
 Este repositório inclui as seguintes estruturas de dados:
 
@@ -27,20 +27,23 @@ Este repositório inclui as seguintes estruturas de dados:
    * Implementação de uma lista ligada simples, permitindo operações como adição, remoção e busca de elementos.
    * Projeto: `LinkedList`
    * Exemplo: Gerenciamento de uma agenda telefônica.
-
 2. **Fila (Queue):**
 
    * Estrutura FIFO (First In, First Out) usada para modelar filas de espera, onde o primeiro a entrar é o primeiro a sair.
    * Projeto: `Queue`
    * Exemplo: Solução do problema de Josephus.
-
 3. **Pilha (Stack):**
 
    * Estrutura LIFO (Last In, First Out), modelando situações onde o último a entrar é o primeiro a sair.
    * Projeto: `Stack`
-   * Exemplo: Validação de parênteses em expressões matemáticas
+   * Exemplo: Validação de parênteses, colchetes e chaves em expressões matemáticas.
+4. **Tabela de Dispersão (HashTable):**
 
-## Estrutura do Repositório
+   * Estrutura eficiente para busca e armazenamento de dados através de hashing.
+   * Projeto: `HashTable`
+   * Exemplo: Verificação de anagramas.
+
+## 📁 Estrutura do Repositório
 
 Cada pasta dentro do repositório representa um projeto separado e contém:
 
